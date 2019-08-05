@@ -1,0 +1,26 @@
+{
+  "name": "inputcomp",
+  "main": "InputComp.vue",
+  "version": "1.0.0",
+  "description": "A Vue.js (>= 2.5) component that provides a custom html input with alternate layout and styling ",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deandevl/InputComp.git"
+  },
+  "keywords": [
+    "vue",
+    "InputComp"
+  ],
+  "author": "Rick Dean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deandevl/InputComp/issues"
+  },
+  "homepage": "https://github.com/deandevl/InputComp#readme",
+  "dependencies": {
+    "vue": "^2.5.22"
+  }
+}
